@@ -1,5 +1,5 @@
 # Project Name
-> Outline a brief description of your project.
+> Lending Club Case study.
 
 
 ## Table of Contents
@@ -11,10 +11,10 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+- This is a case study regarding a lending company.
+- In this we will analyse and extract useful insights from the loan distribution data set of a Lending company
+- As part of this case study we will find out the important metrics that will help the lending company to operate more on profits
+- We will be working on the load distribution dataset of a lending company named as "Loan" dataset.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
